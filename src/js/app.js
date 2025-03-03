@@ -43,7 +43,7 @@ function render(variables = {}) {
           <ul class=${variables.socialMediaPosition} >
             <li><a href="https://twitter.com/${
               variables.twitter
-            }" target="_blank"><i class="fab fa-twitter"></i></a></li>
+            }" target="_blank"><i class="fab fa-x-twitter"></i></a></li>
             <li><a target="_blank" href="https://github.com/${
               variables.github
             }"><i class="fab fa-github"></i></a></li>
